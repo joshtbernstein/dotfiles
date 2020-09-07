@@ -17,3 +17,12 @@ brew install git
 brew install mackup
 brew install mas
 brew install screenfetch
+
+echo "Installing brew cask apps..."
+brew cask install 1password
+brew cask install istat-menus
+brew cask install iterm2
+brew cask install spotify
+brew cask install spotmenu
+brew cask install steam
+#brew cask install the-unarchiver
