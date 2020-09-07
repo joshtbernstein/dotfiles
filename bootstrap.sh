@@ -36,3 +36,8 @@ mas install 1295203466 # Microsoft Remote Desktop
 
 echo "Installing Oh My Zsh..."
 curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh | sh
+
+echo "Copying mackup config to ~..."
+cp ./.mackup.cfg ~
+
+mackup restore
