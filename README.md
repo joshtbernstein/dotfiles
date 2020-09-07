@@ -12,8 +12,8 @@ I find that if I don't set clear goals, I won't stay on track.
 
 - [ ] Install software on new and existing computers
 - [ ] Set default OS preferences
-- [ ] Set application prefrences
-- [ ] Sync application prefrences between systems
+- [ ] Set application preferences
+- [ ] Sync application preferences between systems
 
 ## Reference/Inspiration
 There's many great resouces out there and I'm using them as inspiration.
