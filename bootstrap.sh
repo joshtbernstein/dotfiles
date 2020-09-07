@@ -45,3 +45,4 @@ mackup restore
 echo "Installing Powerline Fonts"
 git clone https://github.com/powerline/fonts.git
 ./fonts/setup.sh
+rm -rf ./fonts
