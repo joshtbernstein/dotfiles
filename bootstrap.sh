@@ -41,3 +41,7 @@ echo "Copying mackup config to ~..."
 cp ./.mackup.cfg ~
 
 mackup restore
+
+echo "Installing Powerline Fonts"
+git clone https://github.com/powerline/fonts.git
+./fonts/setup.sh
