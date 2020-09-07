@@ -31,3 +31,6 @@ echo "Installing App Store apps..."
 mas install 411643860 # DaisyDisk
 mas install 1090488118 # Gemini 2
 mas install 1295203466 # Microsoft Remote Desktop
+
+echo "Installing Oh My Zsh..."
+curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh | sh
