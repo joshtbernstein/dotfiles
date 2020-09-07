@@ -11,3 +11,9 @@ xcode-select --install &>/dev/null
 #
 echo "Installing homebrew..."
 curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh | sh
+
+echo "Installing brew apps..."
+brew install git
+brew install mackup
+brew install mas
+brew install screenfetch
