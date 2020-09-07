@@ -17,6 +17,8 @@ brew install git
 brew install mackup
 brew install mas
 brew install screenfetch
+brew install zsh-autosuggestions
+brew install zsh-syntax-highlighting
 
 echo "Installing brew cask apps..."
 brew cask install 1password
