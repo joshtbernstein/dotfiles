@@ -26,3 +26,8 @@ brew cask install spotify
 brew cask install spotmenu
 brew cask install steam
 #brew cask install the-unarchiver
+
+echo "Installing App Store apps..."
+mas install 411643860 # DaisyDisk
+mas install 1090488118 # Gemini 2
+mas install 1295203466 # Microsoft Remote Desktop
