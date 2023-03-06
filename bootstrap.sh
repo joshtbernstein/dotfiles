@@ -24,7 +24,7 @@ echo "Installing brew cask apps..."
 brew tap homebrew/cask-drivers
 brew cask install 1password
 brew cask install fliqlo
-brew cask install logitech-options
+brew cask install logi-options-plus
 brew cask install istat-menus
 brew cask install iterm2
 brew cask install spotify
