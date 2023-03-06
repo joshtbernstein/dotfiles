@@ -31,6 +31,7 @@ brew cask install spotify
 brew cask install steam
 brew cask install synology-drive
 brew cask install discord
+brew cast install fujitsu-scansnap-manager
 #brew cask install the-unarchiver
 
 echo "Installing App Store apps..."
