@@ -10,7 +10,7 @@ xcode-select --install &>/dev/null
 # TODO: https://github.com/alrra/dotfiles/blob/main/src/os/install/macos/homebrew.sh
 #
 echo "Installing homebrew..."
-curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh | sh
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 
 echo "Installing brew apps..."
 brew install git
