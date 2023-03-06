@@ -28,7 +28,6 @@ brew cask install logitech-options
 brew cask install istat-menus
 brew cask install iterm2
 brew cask install spotify
-brew cask install spotmenu
 brew cask install steam
 #brew cask install the-unarchiver
 
