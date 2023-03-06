@@ -29,6 +29,7 @@ brew cask install istat-menus
 brew cask install iterm2
 brew cask install spotify
 brew cask install steam
+brew cask install synology-drive
 #brew cask install the-unarchiver
 
 echo "Installing App Store apps..."
