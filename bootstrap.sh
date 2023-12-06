@@ -32,7 +32,7 @@ brew install cask steam
 brew install cask synology-drive
 brew install cask discord
 brew install cask fujitsu-scansnap-manager
-#brew install cask the-unarchiver
+brew install cask the-unarchiver
 
 echo "Installing App Store apps..."
 mas install 411643860 # DaisyDisk
