@@ -22,17 +22,17 @@ brew install zsh-syntax-highlighting
 
 echo "Installing brew cask apps..."
 brew tap homebrew/cask-drivers
-brew cask install 1password
-brew cask install fliqlo
-brew cask install logi-options-plus
-brew cask install istat-menus
-brew cask install iterm2
-brew cask install spotify
-brew cask install steam
-brew cask install synology-drive
-brew cask install discord
-brew cast install fujitsu-scansnap-manager
-#brew cask install the-unarchiver
+brew install cask 1password
+brew install cask fliqlo
+brew install cask logi-options-plus
+brew install cask istat-menus
+brew install cask iterm2
+brew install cask spotify
+brew install cask steam
+brew install cask synology-drive
+brew install cask discord
+brew install cask fujitsu-scansnap-manager
+#brew install cask the-unarchiver
 
 echo "Installing App Store apps..."
 mas install 411643860 # DaisyDisk
